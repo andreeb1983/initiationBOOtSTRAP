@@ -1,6 +1,10 @@
 body {
-    background : aliceblue;
+    background : rgb(248, 243, 225);
     color: #333;
+}
+
+.carousel-caption {
+    background-color: rgba(249, 252, 252, 0.007)
 }
 /* .card-title {
     background: #333;
